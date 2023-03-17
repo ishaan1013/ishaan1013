@@ -11,5 +11,3 @@ I'm a 17-year-old developer from Toronto building software I find interesting. Y
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/ishaan1013"alt="https://www.linkedin.com/in/ishaan1013">
   </a>
 </p>
-
-**I'm currently learning about cloud technologies and blockchain development.**

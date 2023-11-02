@@ -1,7 +1,7 @@
 
 # Hey 👋
 
-I'm a 17-year-old developer from Toronto building software I find interesting. You can find me working on my latest projects 👨‍💻, at the gym 🏋🏽, lifeguarding 🏊🏽, or doing something else I’m passionate about. Feel free to reach out, I'd love to talk!
+I'm a 18-year-old developer from Toronto building software I find interesting. You can find me working on my latest projects 👨‍💻, at the gym 🏋🏽, lifeguarding 🏊🏽, or doing something else I’m passionate about. Feel free to reach out, I'd love to talk!
 
 <p>
   <a href="https://www.ishaand.com/" style="text-decoration:none;">

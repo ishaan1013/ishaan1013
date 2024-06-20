@@ -1,7 +1,7 @@
 
 # Hey 👋
 
-I'm a 18-year-old developer from Toronto, living in San Francisco this summer.
+I'm a 18-year-old developer, studying Software Engineering @ the University of Waterloo. I'm living in San Francisco this summer.
 
 <p>
   <a href="https://www.ishaand.com/" style="text-decoration:none;">

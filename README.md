@@ -1,7 +1,7 @@
 
 # Hey 👋
 
-I'm a 18-year-old developer, studying Software Engineering @ the University of Waterloo.
+I'm a 19-year-old developer, studying Software Engineering @ the University of Waterloo.
 
 <p>
   <a href="https://www.ishaand.com/" style="text-decoration:none;">
